@@ -1,2 +1,3 @@
 # Association-rule-mining-with-Apriori
 使用Apriori算法进行频繁项集的挖掘以及关联规则的挖掘
+挖掘的数据集是fulldata中的前1000条数据top1000data。因为fulldata中数据过多（超过80000），使用Apriori算法将会耗费大量的时间。
